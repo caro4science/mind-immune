@@ -19,10 +19,9 @@ For more information, see my complete CV [here](https://www.cienciavitae.pt/211F
 ---
 
 ### Research Interests
-- **Neuroimmunology** – The role of the immune system in brain function and psychiatric disorders.
-- **Psychoneuroimmunology** – How stress and immune activation impact mental health.
+- **Psychoneuroimmunology** – The role of the immune system in brain function and psychiatric disorders.
 - **Organoid Technology** – Studying neurodevelopment with iPSC-derived brain organoids.
-- **Complement System** – Investigating immune proteins in psychiatric conditions.
+- **Complement System** – Investigating immune proteins in psychiatric conditions and neurodevelopment.
 
 ---
 
